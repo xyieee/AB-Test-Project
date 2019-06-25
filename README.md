@@ -7,9 +7,9 @@ For this project, I will be working to understand the results of an A/B Test run
 ## Motivation
 
 A/B testing is a valuable and widely practiced method in industry.
-<br>
+<br><br>
 A/B tests are used to test changes on a web page by running an experiment where a control group sees the old version, while the experiment group sees the new version. A metric is then chosen to measure the level of engagement from users in each group. These results are then used to judge whether one version is more effective than the other. These tests can be used for a wide variety f changes, from large feature additions to small adjustments in color, to see what change maximizes your metric the most. 
-<br>
+<br><br>
 My goal in this project is to work through this process to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 ## Installation
 
