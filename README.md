@@ -1,6 +1,6 @@
 # A/B Testing Project
 
-For this project, I work to understand the results of an A/B Test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. 
+For this project, I work to understand the results of an A/B Test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert", meaning the number of users who decide to pay for the company's product. 
 
 <sub>This project is provided by Udacity Data Analyst Nano Degree.</sub>
 
